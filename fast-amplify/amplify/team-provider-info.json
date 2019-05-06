@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "fast-amplify-20190506113021-authRole",
+            "UnauthRoleArn": "arn:aws:iam::294104603975:role/fast-amplify-20190506113021-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::294104603975:role/fast-amplify-20190506113021-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "fast-amplify-20190506113021-deployment",
+            "UnauthRoleName": "fast-amplify-20190506113021-unauthRole",
+            "StackName": "fast-amplify-20190506113021",
+            "StackId": "arn:aws:cloudformation:eu-west-1:294104603975:stack/fast-amplify-20190506113021/8bed24d0-6fe1-11e9-b536-02f06fc717c0"
+        },
+        "categories": {
+            "auth": {
+                "cognitob12f7601": {}
+            }
+        }
+    }
+}
